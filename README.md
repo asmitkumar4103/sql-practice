@@ -29,4 +29,7 @@ MySQL Workbench
 
 ## Progress
 
-Currently practicing SQL fundamentals and data retrieval queries.
+Currently practicing SQL fundamentals and data retrieval queries.## Progress
+Currently practicing SQL fundamentals, data retrieval,
+GROUP BY, aggregate functions, HAVING, constraints,
+and ALTER operations.
